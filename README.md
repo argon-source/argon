@@ -1,6 +1,9 @@
 # argon
 ARGON GAME
 
+<img width="2387" height="1417" alt="image" src="https://github.com/user-attachments/assets/7f53f8a3-d3c4-438c-a25f-7cc4f8325f37" />
+
+
 Erkunden
   - Kachel-für-Kachel-Erkundung mit Tiefen-System (je tiefer, desto gefährlicher & lohnender)
   - 4 Gebiete: Wald, Berge, Düsterwald, Verfluchte Minen (T1 & T2)
